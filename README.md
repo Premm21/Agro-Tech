@@ -92,3 +92,10 @@ Note that, for now it only supports following crops
 ## DEMO
 
 REPORT HAS BEEN ADDDED FOR REFERENCE PURPOSE.
+
+## Output
+![image](https://github.com/Premm21/Agro-Tech/assets/122553122/4a95fd92-a3d9-4bf3-9244-6f4251ce24fa)
+![image](https://github.com/Premm21/Agro-Tech/assets/122553122/2609e187-6a9c-4574-9945-b8f1db2d9b03)
+![image](https://github.com/Premm21/Agro-Tech/assets/122553122/b6165d47-0f14-43e9-8cc1-941d428ef626)
+![image](https://github.com/Premm21/Agro-Tech/assets/122553122/13a47845-58eb-48e5-8919-b4f6369a5c36)
+
